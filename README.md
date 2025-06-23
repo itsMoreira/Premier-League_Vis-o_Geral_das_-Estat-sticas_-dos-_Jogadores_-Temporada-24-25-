@@ -77,7 +77,7 @@ A análise de dados foi realizada com **Python (Pandas)** e a visualização cri
 
 ## ✅ Screenshot do Dashboard:
 
-![Dashboard Premier League](C:\Users\leona\OneDrive\Área de Trabalho\Leonardo\archivefoto_\dashboard.jpeg)
+![Dashboard Premier League](foto_dashboard.jpeg)
 
 ---
 
